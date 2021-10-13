@@ -1,2 +1,2 @@
-# Exerc-cios-m-dulo-1-
+# Exercícios resolvidos - DATA FRAME (Pandas)
 Resolução comentada dos exercícios 
